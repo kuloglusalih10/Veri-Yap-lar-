@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666557975 source:c:\users\talha\desktop\20010011061_Ödev3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1666557975 source:c:\users\talha\desktop\ders\20010011061_Ödev3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
